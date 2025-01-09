@@ -14,3 +14,9 @@ In conclusion, the "Platooning Autonomous Following Robot" project represents a 
 ![image](https://github.com/user-attachments/assets/0efb2619-3b99-4734-9367-aff14cc3619d)
 Platooning of Robots
 
+![iMAGE !](https://github.com/user-attachments/assets/eae1442c-e345-4cbd-bba6-05cc501e34a9)
+Test Image with ArUco markers
+
+![image](https://github.com/user-attachments/assets/58ee5c3c-9acf-4b20-83da-b1b07d3438a5) ![image](https://github.com/user-attachments/assets/36d54619-5a44-4606-b309-aafe5cbd5f83)
+
+
