@@ -21,4 +21,6 @@ Test Image with ArUco markers
 
 ![image](https://github.com/user-attachments/assets/36d54619-5a44-4606-b309-aafe5cbd5f83) 
 
+![image](https://github.com/user-attachments/assets/54496bd7-96ea-4440-8501-94d5add2ee24)
 
+A formal construction of the pinhole camera model
