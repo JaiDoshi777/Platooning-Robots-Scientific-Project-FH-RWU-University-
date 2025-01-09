@@ -28,3 +28,12 @@ A formal construction of the pinhole camera model
 ![image](https://github.com/user-attachments/assets/2870ea19-e30d-4f06-8d88-709722a47ee9)
 ![image](https://github.com/user-attachments/assets/06e4a224-d6ef-48cf-ad11-082b379814dc)
 
+A Basic idea of its working through series of photoes..!!
+![image](https://github.com/user-attachments/assets/7aab94d3-a7aa-433d-8dbf-fefb4a5ae769)
+![image](https://github.com/user-attachments/assets/afc8a05c-2fbd-4b3b-aba1-f251c0e75109)
+![image](https://github.com/user-attachments/assets/83a70fc9-d352-4360-abab-a5d733cb24ae)
+![image](https://github.com/user-attachments/assets/51bec63d-4a0c-4989-b7c5-5be09050c187)
+![image](https://github.com/user-attachments/assets/bd223035-7b6c-4a43-988f-c7e05f2d89e0)
+![image](https://github.com/user-attachments/assets/82c10dcd-6df2-446c-90a4-d6f00ec1190d)
+![image](https://github.com/user-attachments/assets/91814112-1b68-4196-9740-0afeecb99746)
+
